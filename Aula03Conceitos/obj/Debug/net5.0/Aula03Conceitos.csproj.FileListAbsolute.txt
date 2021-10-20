@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\Aula03Conceitos.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\Aula03Conceitos.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\Aula03Conceitos.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\Aula03Conceitos.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\Aula03Conceitos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\ref\Aula03Conceitos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\bin\Debug\net5.0\Aula03Conceitos.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\ref\Aula03Conceitos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula03Conceitos\obj\Debug\net5.0\Aula03Conceitos.genruntimeconfig.cache
