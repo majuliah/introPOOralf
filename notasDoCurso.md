@@ -10,17 +10,15 @@
 
 #### Vamos começar por entender a estrutura de código inicial do C#:
 
-
-
 ![](https://github.com/majuliah/introPOOralf/blob/main/img/print1.png?raw=true)
 
-#### Na primeira linha temos o ***using System***. O using é para quando queremos importar alguma **funcionalidade**. A System é uma biblioteca padrão onde podemos exibir ou armazenar dados através do *console.* 
+#### Na primeira linha temos o ***using System***. O *using* é para quando queremos importar alguma **funcionalidade**. A System é uma biblioteca padrão onde podemos exibir ou armazenar dados através do *console.* 
 
-#### Na segunda, temos o namespace. Namespace é o lugar, a pasta, o diretório , o local onde temos o projeto. Podemos ter arquivos de mesmo nome em diferentes namespaces. A terceira linha temos a class, onde veremos daqui a pouco a funcionalidade dela.
+#### Na segunda, temos o *namespace*. *Namespace* é o lugar, a pasta, o diretório , o local onde temos o projeto. Podemos ter arquivos de mesmo nome em diferentes *namespaces*. A terceira linha temos a *class*, onde veremos daqui a pouco a funcionalidade dela.
 
-#### Agora a quarta linha, onde temos o static void Main, e cada namespace tem que haver pelo menos uma desta. O arquivo que tem o static void main é o arquivo principal e só deveremos ter um.
+#### Agora a quarta linha, onde temos o ***static void Main***, e cada *namespace* tem que haver pelo menos uma desta. O arquivo que tem o ***static void main*** é o arquivo principal e só deveremos ter um.
 
-#### A Console.WriteLine é para esquevermos algo no console. 
+#### A ***Console.WriteLine*** é para escrevermos algo no console. 
 
 ### CLASSE, ATRIBUTO, MÉTODO E OBJETO🐣:
 
@@ -30,7 +28,7 @@
 - **Atributos: características que o objeto pode ter**
 - **Métodos: são as ações**
 - **Objeto: onde estipulamos as características únicas de uma classe**
-- **Void é quando a expressão ou função não espera receber um valor.**
+- ***Void* é quando a expressão ou função não espera receber um valor.**
 
 ![](https://github.com/majuliah/introPOOralf/blob/main/img/print2.png?raw=true)
 
@@ -38,7 +36,23 @@
 
 #### **Métodos:** Podemos ter vários métodos com mesmo nome em uma classe, contato que eles tenham parâmetros diferentes.
 
- 
+​									 ![](https://github.com/majuliah/introPOOralf/blob/main/img/print3.png?raw=true)
+
+#### Aqui temos 3 métodos com mesmo nome, mas com atributos diferentes. O primeiro não tem nenhum parâmetro. O segundo possui somente nome. E o terceiro já possui a idade. Sendo assim, não há erros porque possuem diferentes, sendo assim, só devemos passar os parâmetros na hora de instanciar a classe (criar o objeto):
+
+####  ![](https://github.com/majuliah/introPOOralf/blob/main/img/print4.png?raw=true)
+
+
+
+## <u>Aula 05🐱‍🏍:</u>
+
+
+
+
+
+
+
+
 
 
 
