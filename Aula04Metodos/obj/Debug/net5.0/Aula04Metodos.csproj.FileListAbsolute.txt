@@ -1,0 +1,16 @@
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\Aula04Metodos.exe
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\Aula04Metodos.deps.json
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\Aula04Metodos.runtimeconfig.json
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\Aula04Metodos.runtimeconfig.dev.json
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\Aula04Metodos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\ref\Aula04Metodos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\bin\Debug\net5.0\Aula04Metodos.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.csproj.AssemblyReference.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.AssemblyInfoInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.AssemblyInfo.cs
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.csproj.CoreCompileInputs.cache
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\ref\Aula04Metodos.dll
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.pdb
+C:\Users\ladyv\Documents\cursinhoCsharp\pooRalfC#\Aula04Metodos\obj\Debug\net5.0\Aula04Metodos.genruntimeconfig.cache

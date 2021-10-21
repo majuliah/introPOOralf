@@ -8,9 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d24759f-22c4-4085-a9d0-6abeaa744526" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aula03Conceitos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aula03Conceitos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notasDoCurso.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notasDoCurso.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1634430785130</updated>
       <workItem from="1634430791709" duration="22000" />
-      <workItem from="1634692369378" duration="1619000" />
+      <workItem from="1634692369378" duration="2387000" />
+      <workItem from="1634770100057" duration="1127000" />
     </task>
     <servers />
   </component>

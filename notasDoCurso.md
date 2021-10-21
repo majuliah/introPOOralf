@@ -36,7 +36,9 @@
 
 ## <u>Aula 04🐱‍🏍:</u>
 
+#### **Métodos:** Podemos ter vários métodos com mesmo nome em uma classe, contato que eles tenham parâmetros diferentes.
 
+ 
 
 
 
