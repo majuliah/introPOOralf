@@ -6,7 +6,11 @@ namespace Aula05ExemplosPraticos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Aluno aluno = new Aluno();
+            aluno.nome = "Maraju";
+            aluno.nota1 = 9.2;
+            aluno.nota2 = 8.3;
+            aluno.mensagem();
         }
     }
 }

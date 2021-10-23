@@ -46,6 +46,8 @@
 
 ## <u>Aula 05🐱‍🏍:</u>
 
+#### As classes começam com letra maiúscula e devemos nos atentar a ela haver o mesmo nome do projeto, deste jeito: 
+
 
 
 
