@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Aula05ExemplosPraticos
 {
@@ -8,7 +9,7 @@ namespace Aula05ExemplosPraticos
         {
             Aluno aluno = new Aluno();
             aluno.nome = "Maraju";
-            aluno.nota1 = 9.2;
+            aluno.nota1  = 9.2;
             aluno.nota2 = 8.3;
             aluno.mensagem();
         }

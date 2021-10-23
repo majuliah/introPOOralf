@@ -48,6 +48,18 @@
 
 #### As classes começam com letra maiúscula e devemos nos atentar a ela haver o mesmo nome do projeto, deste jeito: 
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print5.png?raw=true)
+
+####  Na primeira linha estamos criando a classe aluno. Cada aluno terá atributos como nome e nota1, nota2. Os métodos com public permitem acesso para outras classes. Na segunda, temos a criação dos métodos, também públicos para serem acessados  por outras classes. Temos 3 métodos, sendo eles:
+
+- #### Média: ele calcula a média do aluno após fornecermos as variáveis;
+
+- #### Situação: Ele recebe os parâmetros da média para retornarem um determinado resultado, no caso "aprovado" ou "reprovado". Estamos usando um operador ternário. Média é maior ou igual a 7 ? (sim) retorna "aprovado" : (não) retorna "reprovado".                                                                                                                                                                      return media >= 7 ? "aprovado " : "reprovado" 
+
+- #### Mensagem: Vai ser void porque não queremos armazená-la em alguma variável e não a queremos de parâmetro para algum outro método, como aconteceu no caso da média sendo passada dentro da situação! Portanto só iremos reutilizar os recursos que já temos de outros métodos para imprimir as mensagens. 
+
+  
+
 
 
 

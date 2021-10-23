@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 class Aluno
 {
@@ -24,7 +25,7 @@ class Aluno
         string obterSituacao = situacao(obterMedia);
         
         //Mensagem
-        Console.WriteLine($"{nome} está {obterSituacao} com média {obterMedia}");
+        Console.WriteLine($"{nome} está {obterSituacao} com média {obterMedia.ToString("F1", CultureInfo.InvariantCulture)}");
         
     }
 }
