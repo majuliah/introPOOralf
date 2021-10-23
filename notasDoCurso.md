@@ -60,6 +60,14 @@
 
   
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print6.png?raw=true)
+
+#### Já aqui instanciamos a classe, criando o objeto e depois temos acesso as propriedades dele para passarmos as informações e termos os resultados no console. 
+
+
+
+## <u>Aula 06🐱‍🏍:</u>
+
 
 
 
