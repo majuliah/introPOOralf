@@ -66,9 +66,19 @@
 
 
 
-## <u>Aula 06🐱‍🏍:</u>
+## <u>Aula 07🐱‍🏍:</u>
 
+#### Modificadores de acesso🔐🔏🔓:
 
+#### Um modificador é a maneira de acessar um atributo ou um método.
+
+- #### ***Public***: Qualquer classes tem visibilidade sobre atributos e métodos;
+
+- #### ***Private:*** Atributos e métodos visíveis apenas na classe em que foram criados;
+
+- #### ***Protected:*** Atributos e métodos visíveis em classes onde são criados ou herdados.
+
+  
 
 
 
