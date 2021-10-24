@@ -98,13 +98,13 @@
 
 #### Serve para restringir a visibilidade dos atributos e métodos.
 
-
-
-
-
-
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print9.png?raw=true)
 
 #### Teremos acesso a exibir a média, porém as outras classes que vão instanciar os objetos da classe Aluno não terão visibilidade dos atributos de nota e média:
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print10.png?raw=true)
+
+#### Então vemos que o conceito de encapsulamento é restringir o acesso às nossas classes. No caso de aluno, não temos a necessidade de disponibilizar o método de média, se somente o aluno utilizar. Na Orientação a objetos tentamos ao máximo usar atributos privados e utilizar bastante de encapsulamento. 
 
 
 
