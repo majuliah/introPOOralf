@@ -78,7 +78,37 @@
 
 - #### ***Protected:*** Atributos e métodos visíveis em classes onde são criados ou herdados.
 
+  #### Aqui criamos uma classe produto com dois atributos. Um público e um privado:
+
+  ![](https://github.com/majuliah/introPOOralf/blob/main/img/print7.png?raw=true)
+
+  #### Quando vamos instanciar o objeto na classe ***main***:
+
+  ![](https://github.com/majuliah/introPOOralf/blob/main/img/print8.png?raw=true)
+
+   #### Só conseguimos ter acesso à classe pública 😁🔓, pois restringimos o acesso àquela informação. Algumas linguagens possuem mais modificadores de acessos. 
+
   
+
+  
+
+## <u>Aula 08🐱‍🏍:</u>
+
+####  💊 Encapsulamento💊: 
+
+#### Serve para restringir a visibilidade dos atributos e métodos.
+
+
+
+
+
+
+
+#### Teremos acesso a exibir a média, porém as outras classes que vão instanciar os objetos da classe Aluno não terão visibilidade dos atributos de nota e média:
+
+
+
+
 
 
 
