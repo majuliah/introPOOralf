@@ -166,6 +166,14 @@
 
 
 
+## <u>Aula 12🐱‍🏍:</u>
+
+## Herança 👱‍♀️+👱‍♂️=👶:
+
+#### O conceito de herança é que ao invés de trabalharmos com muitos atributos e métodos dentro de uma classe, a gente divide. Isso que é a grande responsabilidade da Orientação a Objetos. 
+
+
+
 
 
 
