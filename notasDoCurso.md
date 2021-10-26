@@ -146,6 +146,18 @@
 
 
 
+## <u>Aula 11🐱‍🏍:</u>
+
+## THIS
+
+#### O this é utilizado para referenciar um atributo da classe. Ele sempre vai ligar o atributo da classe ao seu método. Se quisermos acessar um atributo, usaremos o this. Se não houver um this, é um parâmetro.
+
+#### Aqui temos uma classe, com atributo nome privado e um método construtor:
+
+
+
+
+
 
 
 
