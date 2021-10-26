@@ -108,6 +108,12 @@
 
 
 
+## <u>Aula 08🐱‍🏍:</u>
+
+#### **CONSTRUCTOR**
+
+#### Contrutor é executado quando instanciamos uma classe e todo construtor é público. Toda vez que executarmos um objeto, ele vai chamar o construtor.
+
 
 
 
