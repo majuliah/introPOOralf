@@ -154,6 +154,24 @@
 
 #### Aqui temos uma classe, com atributo nome privado e um método construtor:
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print15.png?raw=true)
+
+#### Aqui o this acessará o nome passado no ATRIBUTO:
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print16.png?raw=true)
+
+#### E aqui ele vai printar os dois, tanto o atributo da classe pessoa, quando a instância da classe pessoa:
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print17.png?raw=true)
+
+
+
+
+
+
+
+
+
 
 
 
