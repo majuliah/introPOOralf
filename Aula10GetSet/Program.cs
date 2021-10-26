@@ -9,6 +9,8 @@ namespace Aula10GetSet
             Pessoa p = new Pessoa();
             p.Nome = "Majulia";
             p.Nome;
+            Console.WriteLine(p.Nome);
+            
         }
     }
 }

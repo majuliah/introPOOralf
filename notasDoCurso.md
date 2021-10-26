@@ -134,6 +134,20 @@
 
 #### Em determinados momentos no código, em um atributo privado, iremos querer pegar ou enviar informações nele. É pra isso que serve os getters e os setters. Podemos também usar um ou outro e até mesmo ambos. Seguiremos o exemplo da classe pessoa:
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print13.png?raw=true)
+
+
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print14.png?raw=true)
+
+#### Aqui a gente vê que só temos acesso ao método get e set que é o Nome com letra maiúscula. Se deixarmos nomente p.Nome, ele entende como um get e se fizermos p.Nome="AlgumNome", ele entende como um set.
+
+
+
+
+
+
+
 
 
 
