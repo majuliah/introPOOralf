@@ -172,9 +172,17 @@
 
 #### O conceito de herança é que ao invés de trabalharmos com muitos atributos e métodos dentro de uma classe, a gente divide. Isso que é a grande responsabilidade da Orientação a Objetos. 
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print18.png?raw=true)
 
+#### Aqui vemos que só temos acesso ao salário. Mas quando fazemos a herança da outra classe:
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print19.png?raw=true)
 
+#### A herança no C# se dá aos : mais o nome da classe que queremos herdar. Também no C# só é possível uma classe herdar de outra UMA classe. Múltiplas heranças em uma mesma classe não são permitidas. 
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print20.png?raw=true)
+
+#### Temos o resultado final assim.
 
 
 
