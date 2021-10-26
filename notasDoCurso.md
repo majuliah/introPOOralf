@@ -108,11 +108,35 @@
 
 
 
-## <u>Aula 08🐱‍🏍:</u>
+## <u>Aula 09🐱‍🏍:</u>
 
 #### **CONSTRUCTOR**
 
 #### Contrutor é executado quando instanciamos uma classe e todo construtor é público. Toda vez que executarmos um objeto, ele vai chamar o construtor.
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print11.png?raw=true)
+
+#### Assim, quando iniciarmos o programa:
+
+
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print12.png?raw=true)
+
+
+
+## <u>Aula 10🐱‍🏍:</u>
+
+#### ***GET*** e ***SET***:
+
+#### Get: Pega informações
+
+#### Set: Seta informações
+
+#### Em determinados momentos no código, em um atributo privado, iremos querer pegar ou enviar informações nele. É pra isso que serve os getters e os setters. Podemos também usar um ou outro e até mesmo ambos. Seguiremos o exemplo da classe pessoa:
+
+
+
+
 
 
 
