@@ -212,13 +212,23 @@
 
 #### Mas no C#, quando vamos mudar algum atributo ou método herdado, precisamos avisar ao compilador que aquele método ou atributo que queremos alterar é o que estamos herdando de outra classe. Então fazemos:
 
-
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print27.png?raw=true)
 
 ## Mas o que está acontecendo aqui?????? 🤔🤔🤔
 
 #### O objetoE vai ter acesso aos métodos da classe Imposto. SE o estagiário tiver algum método que já existe no imposto, ele vai sobescrever o imposto com os métodos do estagiário. Caso o imposto tenha algo que o estagiário não tenha, a gente pode acessar aos métodos e atributos que ele tem. Então sobescrevemos o que tem no imposto e ainda temos acesso ao que não tem no estagiário e só tem no imposto. 
 
 #### No atendente e gerente a gente tá sobescrevendo. Então os métodos são da própria classe gerente e atendente e não do imposto.
+
+
+
+## <u>Aula 13🐱‍🏍:</u>
+
+## ATRIBUTOS E MÉTODOS ESTÁTICOS
+
+#### Sempre quando executamos uma função, ação, criamos um objeto. Mas nem sempre precisamos criar um objeto, podemos deixar à disposição métodos e atributos sem ter que instanciar objetos de classes x.
+
+ 
 
 
 
