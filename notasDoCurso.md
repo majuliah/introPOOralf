@@ -192,7 +192,7 @@
 
 #### Classe imposto tem dois métodos: **vale alimentação** e **vale transporte**. Estagiário terá calculo padrão da empresa, enquanto o atendente e o gerente terão alterações:
 
-
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print21.png?raw=true)
 
 #### Temos um vale alimentação que descontará um valor percentual, mas pode aplicar outros percentuais dependendo do cargo/necessidade/regra de negócio. Usaremos o mesmo nome de método, mas dependendo da forma em que instanciaremos aquela classe, ele fará um cálculo diferente. 
 
