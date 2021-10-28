@@ -256,6 +256,10 @@
 
 #### A opcional só utilizaremos se quisermos. Então notamos que uma abstração quando é obrigatória possui o abstract.
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print31.png?raw=true)
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ﻿using System;
     
-abstract class Padrao
+public abstract class Padrao
 {
         //Obrigatório:
         public abstract void taxaEmprestimo(double valor);

@@ -6,7 +6,11 @@ namespace Aula15e16Abstracao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PessoaFisica pf = new PessoaFisica();
+            pf.taxaEmprestimo(1000);
+
+            PessoaJuridica pj = new PessoaJuridica();
+            pj.taxaEmprestimo(2000);
         }
     }
 }

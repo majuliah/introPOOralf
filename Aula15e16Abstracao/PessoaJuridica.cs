@@ -1,7 +1,9 @@
-﻿namespace Aula15e16Abstracao
+﻿using System;
+ class PessoaJuridica : Padrao
 {
-    public class PessoaJuridica
+    //Método obrigatório
+    public override void taxaEmprestimo(double valor)
     {
-        
+        Console.WriteLine($"Taxa de empréstimo para pessoa jurídica {valor * 0.3}");
     }
 }
