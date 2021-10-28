@@ -240,6 +240,30 @@
 
 ## <u>Aula 15🐱‍🏍:</u>
 
+## Conceitos de Abstração:
+
+#### Abstração é uma classe que PODE ou NÃO conter métodos obrigatórios para todas as classes que a herdam. Podemos ter inúmeras classes, mas ela serve para formarmos um padrão entre as classes. Ex.: método de conectar com o banco de dados. 
+
+#### Podemos também usar métodos não obrigatórios. Podemos ou não serem usados na classe que as herdam. 
+
+#### UMA CLASSE ABSTRATA **NÃO PODE SER INSTANCIADA**, SOMENTE HERDADA. Também NÃO podemos herdar mais de uma classe abstrata. Assim como as classes normais, só podemos ter uma herança de cada vez, não há herança múltipla.
+
+#### É um padrão para equipes de desenvolvedores, porque garante estrutura pré moldada de métodos que podemos utilizar. 
+
+
+
+#### Quando estamos criando uma classe abstrata, estamos criando um padrão para nosso projeto. Criaremos dois métodos: um obrigatório e um opcional.  Um método obrigatório só pode ser **PUBLIC** ou **PROTECTED**.  No método obrigatório, temos a taxaEmprestimo que faz o cálculo de quando a pessoa física pagará de taxas ao banco. Ali, colocamos um ; e não as {}, porque a regra de negócio (cálculos, operações e funções) ficam nas classes que herdam a classe abstrata Padrao.cs, sendo assim, a classe que a herdar tem que ter um método público, void, taxaEmprestimo e passar o parâmetro valor. Então o public void e nome do método tem que ser obrigatório. 
+
+#### A opcional só utilizaremos se quisermos. Então notamos que uma abstração quando é obrigatória possui o abstract.
+
+
+
+
+
+
+
+
+
 
 
 
