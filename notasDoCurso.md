@@ -238,7 +238,7 @@
 
 
 
-## <u>Aula 15🐱‍🏍:</u>
+## <u>Aula 15/16🐱‍🏍:</u>
 
 ## Conceitos de Abstração:
 
@@ -267,6 +267,16 @@
  ![](https://github.com/majuliah/introPOOralf/blob/main/img/print33.png?raw=true)
 
 #### Ele calcula normalmente sem o calculoPoupança. Mas se tirarmos o taxaEmprestimo da classe PessoaFisica e tentarmos executar:
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print34.png?raw=true)
+
+#### Ele diz exatamente que está faltando o método abstract obrigatório. 
+
+
+
+## <u>Aula 17/18🐱‍🏍:</u>
+
+
 
 
 
