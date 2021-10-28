@@ -260,6 +260,16 @@
 
 
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print32.png?raw=true)
+
+#### Podemos ver que ele acha os dois métodos. E ao executarmos:
+
+ ![](https://github.com/majuliah/introPOOralf/blob/main/img/print33.png?raw=true)
+
+#### Ele calcula normalmente sem o calculoPoupança. Mas se tirarmos o taxaEmprestimo da classe PessoaFisica e tentarmos executar:
+
+
+
 
 
 
