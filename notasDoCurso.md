@@ -289,6 +289,30 @@
 
 
 
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print35.png?raw=true)
+
+#### ^ Aqui criamos a interface. Ela é declarada pelo nome ***interface*** 
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print36.png?raw=true)
+
+#### ^ Aqui estamos implementando a interface e criando os métodos para fazer as operações.
+
+![](https://github.com/majuliah/introPOOralf/blob/main/img/print37.png?raw=true)
+
+#### E aqui estamos instanciando a classe e passando os valores para que seja realizado os cálculos. 
+
+# Finalização 🐱‍🐉🥳
+
+## Durante os estudos deste curso, foi possível ter uma noção dos pilares do que é a programação orientada a objetos em C#.  Curso concuído 🖖
+
+
+
+![](https://media2.giphy.com/media/QMsS2IxP812wbn4WeE/giphy.gif?cid=790b761193a4f9e884b973dbf08cdf2b9649102840de85b9&rid=giphy.gif&ct=g)
+
+
+
+
+
 
 
 
