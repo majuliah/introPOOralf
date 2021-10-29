@@ -276,6 +276,23 @@
 
 ## <u>Aula 17/18🐱‍🏍:</u>
 
+## INTERFACE:
+
+#### É muito parecida com abstração, porém:
+
+#### É exclusivamente utilizada para criar métodos OBRIGATÓRIOS. Somos obrigados a usar os métodos que a interface dispõe. Uma classe também PODE implementrar várias interfaces! Podemos implementar diversas sem problemas e garante a opção de separarmos pequenas interfaces. Não contém cálculos, condicionais, laços e demais ações. Assim como na abstração, a regra somente fica na classe que as implementam/herdam. Usamos na interface métodos abstratos ou públicos. Regras mudam de linguagem para linguagem. Em boas práticas no C# toda interface começa com a letra I, exemplo:
+
+- IPadrao;
+- ICalculo;
+- IConsulta;
+- IAcoes;
+
+
+
+
+
+
+
 
 
 
